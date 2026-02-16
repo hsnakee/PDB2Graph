@@ -1,0 +1,23 @@
+.
+ .github
+  workflows
+   ci.yml
+ .gitignore
+ CHANGELOG.md
+ CONTRIBUTING.md
+ LICENSE
+ Makefile
+ PROJECT_STRUCTURE.md
+ QUICK_START.md
+ README.md
+ REPOSITORY_OVERVIEW.md
+ REPOSITORY_TREE.txt
+ START_HERE.md
+ data
+  README.md
+  pdb_files
+ examples
+  load_graphs.py
+ protein_graph_builder.ipynb
+ requirements.txt
+ setup.py
