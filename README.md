@@ -10,14 +10,14 @@ A production-quality tool for converting PDB protein structures into residue-lev
 This tool provides a clean, reproducible pipeline to transform protein structures (PDB format) into graph objects suitable for geometric deep learning. It supports both monomer (single-chain) and complex (multi-chain) graph generation with scientifically rigorous residue-level representations.
 
 **Key Features:**
-- 🧬 Residue-level graph construction using Cα atoms
-- 📏 Distance-based edge generation (user-configurable cutoff)
-- 🔗 Support for monomer and multi-chain complex graphs
-- 📊 Rich node and edge features for ML applications
-- 🔄 Batch processing of multiple PDB files
-- 📝 Comprehensive logging and validation
-- 🎯 PyTorch Geometric output format
-- ⚡ Production-ready, modular codebase
+-  Residue-level graph construction using Cα atoms
+-  Distance-based edge generation (user-configurable cutoff)
+-  Support for monomer and multi-chain complex graphs
+-  Rich node and edge features for ML applications
+-  Batch processing of multiple PDB files
+-  Comprehensive logging and validation
+-  PyTorch Geometric output format
+-  Production-ready, modular codebase
 
 ## Scientific Specification
 
@@ -53,7 +53,7 @@ This tool provides a clean, reproducible pipeline to transform protein structure
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/protein-structure-graphs.git
+
 cd protein-structure-graphs
 
 # Create virtual environment (recommended)
